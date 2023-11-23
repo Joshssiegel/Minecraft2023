@@ -1,0 +1,39 @@
+[00:00:48] [Server thread/INFO]: TheAsocialMatzah has made the advancement [The Parrots and the Bats]
+[00:02:50] [Server thread/INFO]: Skorpco drowned
+[00:15:08] [Server thread/INFO]: Skorpco drowned
+[00:15:15] [Server thread/WARN]: Skorpco moved too quickly! -53.00632557556588,29.17644111969952,-12.091948405514472
+[00:21:58] [Server thread/INFO]: TheAsocialMatzah has made the advancement [A Seedy Place]
+[00:27:34] [Server thread/INFO]: Skorpco has made the advancement [Sweet Dreams]
+[00:28:00] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
+[00:28:00] [Server thread/INFO]: TheAsocialMatzah left the game
+[00:28:02] [User Authenticator #21/INFO]: UUID of player TheAsocialMatzah is ca263dce-a643-490a-8638-4ad3f94fd188
+[00:28:02] [Server thread/INFO]: TheAsocialMatzah[/100.37.100.103:51986] logged in with entity id 88698 at (175.1457365093979, 73.0, 747.6999999880791)
+[00:28:02] [Server thread/INFO]: TheAsocialMatzah joined the game
+[00:28:04] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
+[00:28:04] [Server thread/INFO]: TheAsocialMatzah left the game
+[00:28:06] [User Authenticator #22/INFO]: UUID of player TheAsocialMatzah is ca263dce-a643-490a-8638-4ad3f94fd188
+[00:28:06] [Server thread/INFO]: TheAsocialMatzah[/100.37.100.103:51990] logged in with entity id 88789 at (175.96292884902758, 74.0, 748.231442393493)
+[00:28:06] [Server thread/INFO]: TheAsocialMatzah joined the game
+[00:50:11] [Server thread/INFO]: Skorpco has made the advancement [A Seedy Place]
+[00:51:38] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
+[00:51:38] [Server thread/INFO]: TheAsocialMatzah left the game
+[01:02:41] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[01:02:41] [Server thread/INFO]: dtkeehne left the game
+[01:09:48] [Server thread/INFO]: Joshssiegel has made the advancement [Sneak 100]
+[01:13:54] [Server thread/INFO]: Skorpco has made the advancement [Sneak 100]
+[01:33:12] [Server thread/INFO]: Skorpco has made the advancement [The Parrots and the Bats]
+[01:39:36] [Server thread/INFO]: Skorpco has made the advancement [Ice Bucket Challenge]
+[01:40:02] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
+[01:40:02] [Server thread/INFO]: Joshssiegel left the game
+[01:44:11] [Server thread/INFO]: Skorpco lost connection: Disconnected
+[01:44:11] [Server thread/INFO]: Skorpco left the game
+[01:44:14] [Server thread/INFO]: Stopping server
+[01:44:14] [Server thread/INFO]: Saving players
+[01:44:14] [Server thread/INFO]: Saving worlds
+[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
