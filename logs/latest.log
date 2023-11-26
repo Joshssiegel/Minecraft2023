@@ -1,39 +1,29 @@
-[00:00:48] [Server thread/INFO]: TheAsocialMatzah has made the advancement [The Parrots and the Bats]
-[00:02:50] [Server thread/INFO]: Skorpco drowned
-[00:15:08] [Server thread/INFO]: Skorpco drowned
-[00:15:15] [Server thread/WARN]: Skorpco moved too quickly! -53.00632557556588,29.17644111969952,-12.091948405514472
-[00:21:58] [Server thread/INFO]: TheAsocialMatzah has made the advancement [A Seedy Place]
-[00:27:34] [Server thread/INFO]: Skorpco has made the advancement [Sweet Dreams]
-[00:28:00] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
-[00:28:00] [Server thread/INFO]: TheAsocialMatzah left the game
-[00:28:02] [User Authenticator #21/INFO]: UUID of player TheAsocialMatzah is ca263dce-a643-490a-8638-4ad3f94fd188
-[00:28:02] [Server thread/INFO]: TheAsocialMatzah[/100.37.100.103:51986] logged in with entity id 88698 at (175.1457365093979, 73.0, 747.6999999880791)
-[00:28:02] [Server thread/INFO]: TheAsocialMatzah joined the game
-[00:28:04] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
-[00:28:04] [Server thread/INFO]: TheAsocialMatzah left the game
-[00:28:06] [User Authenticator #22/INFO]: UUID of player TheAsocialMatzah is ca263dce-a643-490a-8638-4ad3f94fd188
-[00:28:06] [Server thread/INFO]: TheAsocialMatzah[/100.37.100.103:51990] logged in with entity id 88789 at (175.96292884902758, 74.0, 748.231442393493)
-[00:28:06] [Server thread/INFO]: TheAsocialMatzah joined the game
-[00:50:11] [Server thread/INFO]: Skorpco has made the advancement [A Seedy Place]
-[00:51:38] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
-[00:51:38] [Server thread/INFO]: TheAsocialMatzah left the game
-[01:02:41] [Server thread/INFO]: dtkeehne lost connection: Disconnected
-[01:02:41] [Server thread/INFO]: dtkeehne left the game
-[01:09:48] [Server thread/INFO]: Joshssiegel has made the advancement [Sneak 100]
-[01:13:54] [Server thread/INFO]: Skorpco has made the advancement [Sneak 100]
-[01:33:12] [Server thread/INFO]: Skorpco has made the advancement [The Parrots and the Bats]
-[01:39:36] [Server thread/INFO]: Skorpco has made the advancement [Ice Bucket Challenge]
-[01:40:02] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
-[01:40:02] [Server thread/INFO]: Joshssiegel left the game
-[01:44:11] [Server thread/INFO]: Skorpco lost connection: Disconnected
-[01:44:11] [Server thread/INFO]: Skorpco left the game
-[01:44:14] [Server thread/INFO]: Stopping server
-[01:44:14] [Server thread/INFO]: Saving players
-[01:44:14] [Server thread/INFO]: Saving worlds
-[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:44:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41995710ms or 839914 ticks behind
+[11:35:19] [User Authenticator #9/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
+[11:35:20] [Server thread/INFO]: dtkeehne[/192.168.1.254:25565] logged in with entity id 97801 at (272.5971345121013, 80.0, 399.05088226817736)
+[11:35:20] [Server thread/INFO]: dtkeehne joined the game
+[11:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3742ms or 74 ticks behind
+[11:41:10] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[11:41:10] [Server thread/INFO]: dtkeehne left the game
+[14:29:30] [User Authenticator #10/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
+[14:29:31] [Server thread/INFO]: dtkeehne[/192.168.1.254:25565] logged in with entity id 98845 at (347.74848520207985, 80.0, 474.14281872133625)
+[14:29:31] [Server thread/INFO]: dtkeehne joined the game
+[14:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[14:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[14:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:01:08] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[15:01:08] [Server thread/INFO]: dtkeehne left the game
+[15:31:48] [User Authenticator #11/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
+[15:31:49] [Server thread/INFO]: dtkeehne[/192.168.1.254:25565] logged in with entity id 104062 at (200.02997024563444, 99.0, 662.1270247041979)
+[15:31:49] [Server thread/INFO]: dtkeehne joined the game
+[15:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[15:38:50] [Server thread/INFO]: dtkeehne has made the advancement [Into Fire]
+[15:40:51] [Server thread/INFO]: dtkeehne was fireballed by Blaze
+[15:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:56:38] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[15:56:38] [Server thread/INFO]: dtkeehne left the game
+[19:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3252893ms or 65057 ticks behind
+[22:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5331136ms or 106622 ticks behind
+[22:59:16] [Server thread/INFO]: Stopping server
+[22:59:16] [Server thread/INFO]: Saving players
+[22:59:16] [Server thread/INFO]: Saving worlds
