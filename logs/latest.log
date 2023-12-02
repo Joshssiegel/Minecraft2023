@@ -1,11 +1,11 @@
-[18:07:55] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:07:57] [ServerMain/INFO]: Loaded 7 recipes
-[18:07:57] [ServerMain/INFO]: Loaded 1271 advancements
-[18:07:58] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[18:07:58] [Server thread/INFO]: Loading properties
-[18:07:58] [Server thread/INFO]: Default game type: SURVIVAL
-[18:07:58] [Server thread/INFO]: Generating keypair
-[18:07:58] [Server console handler/ERROR]: Exception handling console input
+[00:12:07] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:12:09] [ServerMain/INFO]: Loaded 7 recipes
+[00:12:09] [ServerMain/INFO]: Loaded 1271 advancements
+[00:12:11] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[00:12:11] [Server thread/INFO]: Loading properties
+[00:12:11] [Server thread/INFO]: Default game type: SURVIVAL
+[00:12:11] [Server thread/INFO]: Generating keypair
+[00:12:11] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
@@ -19,48 +19,32 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
 	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
 	at ajn$1.run(SourceFile:89) ~[server-1.20.2.jar:?]
-[18:07:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:07:58] [Server thread/INFO]: Using default channel type
-[18:07:58] [Server thread/INFO]: Preparing level "world"
-[18:07:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:08:00] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:08:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:08:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:08:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:08:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:08:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:08:02] [Worker-Main-5/INFO]: Preparing spawn area: 33%
-[18:08:02] [Server thread/INFO]: Time elapsed: 3341 ms
-[18:08:02] [Server thread/INFO]: Done (4.164s)! For help, type "help"
-[18:52:57] [User Authenticator #1/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
-[18:52:57] [Server thread/INFO]: dtkeehne[/75.109.16.118:49452] logged in with entity id 28 at (199.88330765678992, 99.5625, 658.5542524839898)
-[18:52:57] [Server thread/INFO]: dtkeehne joined the game
-[20:51:03] [Server thread/WARN]: Horse (vehicle of dtkeehne) moved wrongly! 0.3059727142167503
-[20:52:37] [Server thread/WARN]: Horse (vehicle of dtkeehne) moved wrongly! 0.3138868955088583
-[22:03:47] [Server thread/INFO]: dtkeehne lost connection: Disconnected
-[22:03:47] [Server thread/INFO]: dtkeehne left the game
-[22:09:59] [User Authenticator #2/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
-[22:09:59] [Server thread/INFO]: dtkeehne[/75.109.16.118:61495] logged in with entity id 57499 at (201.82033682333872, 99.0, 662.530466578342)
-[22:09:59] [Server thread/INFO]: dtkeehne joined the game
-[22:11:14] [Server thread/INFO]: dtkeehne lost connection: Disconnected
-[22:11:14] [Server thread/INFO]: dtkeehne left the game
-[22:11:54] [User Authenticator #3/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
-[22:11:55] [Server thread/INFO]: dtkeehne[/75.109.16.118:61632] logged in with entity id 57992 at (205.5, 74.0, 718.5)
-[22:11:55] [Server thread/INFO]: dtkeehne joined the game
-[22:25:44] [Server thread/INFO]: dtkeehne lost connection: Disconnected
-[22:25:44] [Server thread/INFO]: dtkeehne left the game
-[23:10:27] [User Authenticator #4/INFO]: UUID of player Joshssiegel is 5222e41c-4f17-4f7e-bf0f-695173f57962
-[23:10:27] [Server thread/INFO]: Joshssiegel[/127.0.0.1:51821] logged in with entity id 60258 at (283.17346036178134, 72.0, 758.2105743358419)
-[23:10:27] [Server thread/INFO]: Joshssiegel joined the game
-[23:11:36] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
-[23:11:36] [Server thread/INFO]: Joshssiegel left the game
-[23:11:40] [Server thread/INFO]: Stopping server
-[23:11:40] [Server thread/INFO]: Saving players
-[23:11:40] [Server thread/INFO]: Saving worlds
-[23:11:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:11:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:11:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:11:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:11:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:11:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:11:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:12:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:12:11] [Server thread/INFO]: Using default channel type
+[00:12:11] [Server thread/INFO]: Preparing level "world"
+[00:12:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:12:14] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[00:12:14] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:12:14] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:12:14] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[00:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:12:14] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:12:15] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[00:12:15] [Worker-Main-8/INFO]: Preparing spawn area: 82%
+[00:12:16] [Server thread/INFO]: Time elapsed: 3597 ms
+[00:12:16] [Server thread/INFO]: Done (4.572s)! For help, type "help"
+[00:14:47] [User Authenticator #1/INFO]: UUID of player Joshssiegel is 5222e41c-4f17-4f7e-bf0f-695173f57962
+[00:14:48] [Server thread/INFO]: Joshssiegel[/127.0.0.1:65361] logged in with entity id 28 at (215.2183608815238, 105.0, 663.6440620315526)
+[00:14:48] [Server thread/INFO]: Joshssiegel joined the game
+[01:20:45] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
+[01:20:45] [Server thread/INFO]: Joshssiegel left the game
+[01:21:41] [Server thread/INFO]: Stopping server
+[01:21:41] [Server thread/INFO]: Saving players
+[01:21:41] [Server thread/INFO]: Saving worlds
+[01:21:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:21:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:21:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:21:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:21:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
