@@ -1,1 +1,73 @@
-[02:28:07] [Server thread/INFO]: Stopping server
+[00:00:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=253, y=51, z=664} hx{x=255, y=50, z=664}
+[00:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[00:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[00:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[00:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[00:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[00:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[00:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[00:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[00:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[00:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[00:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[01:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[01:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[01:12:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[01:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:16:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[01:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[01:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:21:25] [Server thread/WARN]: TheAsocialMatzah moved too quickly! -10.005523467994633,0.0,-1.426583262391091
+[01:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9866ms or 197 ticks behind
+[01:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[01:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[01:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5873ms or 117 ticks behind
+[01:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:23:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
+[01:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[01:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[01:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[01:26:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[01:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3718ms or 74 ticks behind
+[01:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01:28:21] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[01:28:21] [Server thread/INFO]: dtkeehne left the game
+[01:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[01:36:56] [Server thread/INFO]: Joshssiegel has made the advancement [Who is Cutting Onions?]
+[01:41:56] [Server thread/INFO]: Skorpco has made the advancement [Cover Me with Diamonds]
+[02:04:29] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
+[02:04:29] [Server thread/INFO]: Joshssiegel left the game
+[02:04:34] [User Authenticator #47/INFO]: UUID of player Joshssiegel is 5222e41c-4f17-4f7e-bf0f-695173f57962
+[02:04:34] [Server thread/INFO]: Joshssiegel[/38.73.253.110:54270] logged in with entity id 213298 at (299.1726061030661, 63.0, 850.5833396821639)
+[02:04:34] [Server thread/INFO]: Joshssiegel joined the game
+[02:06:30] [Server thread/INFO]: TheAsocialMatzah has made the advancement [Ol' Betsy]
+[02:17:05] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
+[02:17:05] [Server thread/INFO]: TheAsocialMatzah left the game
+[02:28:26] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
+[02:28:26] [Server thread/INFO]: Joshssiegel left the game
+[02:32:06] [Server thread/INFO]: Skorpco lost connection: Disconnected
+[02:32:06] [Server thread/INFO]: Skorpco left the game
+[17:07:40] [User Authenticator #48/INFO]: UUID of player Joshssiegel is 5222e41c-4f17-4f7e-bf0f-695173f57962
+[17:07:41] [Server thread/INFO]: Joshssiegel[/38.73.253.110:65092] logged in with entity id 222602 at (286.9730338725717, 63.0, 827.7343006616364)
+[17:07:41] [Server thread/INFO]: Joshssiegel joined the game
+[17:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[17:08:57] [User Authenticator #49/INFO]: UUID of player dtkeehne is 3cf5f7f2-bae2-4c19-90ff-e338b5df954b
+[17:08:58] [Server thread/INFO]: dtkeehne[/127.0.0.1:59435] logged in with entity id 223068 at (183.5079897374513, 99.0, 634.4523260565973)
+[17:08:58] [Server thread/INFO]: dtkeehne joined the game
+[17:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[17:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[17:35:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=238, y=79, z=709} hx{x=238, y=78, z=709}
+[17:37:26] [Server thread/INFO]: dtkeehne was slain by Iron Golem
+[17:50:46] [Server thread/INFO]: dtkeehne fell from a high place
+[17:50:47] [Server thread/WARN]: dtkeehne moved too quickly! -36.325828174155276,22.875,-0.823078704181512
+[18:09:26] [Server thread/INFO]: Joshssiegel lost connection: Disconnected
+[18:09:26] [Server thread/INFO]: Joshssiegel left the game
+[18:11:28] [Server thread/INFO]: dtkeehne lost connection: Disconnected
+[18:11:28] [Server thread/INFO]: dtkeehne left the game
