@@ -1,25 +1,12 @@
-[00:52:28] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
-[00:52:28] [Server thread/INFO]: TheAsocialMatzah left the game
-[17:57:16] [User Authenticator #41/INFO]: UUID of player TheAsocialMatzah is ca263dce-a643-490a-8638-4ad3f94fd188
-[17:57:17] [Server thread/INFO]: TheAsocialMatzah[/74.101.121.149:34141] logged in with entity id 301140 at (266.2521431296621, 67.0, 659.6816433353391)
-[17:57:17] [Server thread/INFO]: TheAsocialMatzah joined the game
-[17:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
-[18:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[18:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[18:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
-[18:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[18:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[18:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16125ms or 322 ticks behind
-[18:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[18:15:12] [Server thread/INFO]: Stopping server
-[18:15:12] [Server thread/INFO]: Saving players
-[18:15:13] [Server thread/INFO]: TheAsocialMatzah lost connection: Server closed
-[18:15:13] [Server thread/INFO]: TheAsocialMatzah left the game
-[18:15:13] [Server thread/INFO]: Saving worlds
-[18:15:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:15:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:15:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:15:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:15:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:15:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:15:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:41] [Server thread/INFO]: TheAsocialMatzah lost connection: Disconnected
+[00:01:41] [Server thread/INFO]: TheAsocialMatzah left the game
+[23:40:15] [Server thread/INFO]: Stopping server
+[23:40:15] [Server thread/INFO]: Saving players
+[23:40:15] [Server thread/INFO]: Saving worlds
+[23:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
